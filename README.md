@@ -3,5 +3,6 @@
 
 1. requirements:import requests, from bs4 import BeautifulSoup, import pandas as pd
 2. 基于现有网页
-3. 现存的问题是报关填的内容五花八门，是否存在报关的抽象文字对应的可以与HSCode相匹配的品名的数据集，训练出可以批量处理报关内容的模型
-4. 纯几把瞎扯，估计也没人看，不会有issue
+3. 示例表格参照test，输出样例参照output
+4. 现存的问题是报关填的内容五花八门，是否存在报关的抽象文字对应的可以与HSCode相匹配的品名的数据集，训练出可以批量处理报关内容的模型，等有数据再尝试
+5. 纯几把瞎扯，估计也没人看，不会有issue的
